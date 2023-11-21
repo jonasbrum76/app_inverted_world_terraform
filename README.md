@@ -1,10 +1,8 @@
 # Automação com Terraform na AWS
 
-## Este repositório foi aUtilizado para criar uma instância EC2 na AWS. 
-
-Máquina Virtual Ubuntu
-Instalação e configuração automatizada do servidor Apache
-Implementação da aplicação específica.
+## Máquina Virtual Ubuntu
+## Instalação e configuração automatizada do servidor Apache
+## Implementação da aplicação específica.
 
 Utilizando o Terraform, a infraestrutura é gerenciada como código, permitindo uma implantação eficiente da instância EC2, incluindo a criação de Security Groups para controlar o tráfego de rede.
 
