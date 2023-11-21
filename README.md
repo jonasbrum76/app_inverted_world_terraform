@@ -1,6 +1,6 @@
 # Automação com Terraform na AWS
 
-## Este repositório foi atualizado para criar uma instância EC2 na AWS.
+## Este repositório foi aUtilizado para criar uma instância EC2 na AWS. 
 
 Máquina Virtual Ubuntu
 Instalação e configuração automatizada do servidor Apache
